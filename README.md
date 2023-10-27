@@ -1,7 +1,15 @@
-# Deep Learning
-Ejemplos de redes neuronales Convulsionales y Recurrentes
-Programación con python y sus librerias: Numpy, Pandas, Matplotlib & SciKit Learn.
-Uso de Tensorflow V.1 y V2 y las bibliotecas Estimator API y Keras.
+<h1>Redes Neuronales CNN</h1>
 
+<p>Ejemplos con python y sus librerias:</p>
 
-<h1> Redes Neuronales </h1>
+<ol>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>SciKit Learn</li>
+</ol>
+
+<p>Uso de Tensorflow V.1 & V.2, así como las bibliotecas de Estimator API y Keras.</p>
+<br>
+
+<img src="https://miro.medium.com/v2/resize:fit:724/0*1bvNMP4spYjalmWT.jpg" alt="Show_me">
